@@ -1,0 +1,58 @@
+.cell{
+  /*background-color: white;
+  border: 1px solid black;
+  padding: 15px;*/
+  display: block;
+  
+  
+}
+
+#t{
+    position: absolute;
+    right: 569px;
+    top: 30px;
+    background-color: pink;
+    padding: 15px;
+
+    border-radius: 6px;
+    
+}
+
+#bb{
+    position: absolute;
+    top:480px;
+    left: 670px;
+    background-color: rgb(223, 132, 185);
+    border-radius: 6px;
+    padding:30px;
+    border: none;
+}
+
+#container{
+    display: grid;
+  /*  grid-template-columns: repeat(16, auto);
+    grid-template-rows: repeat(16,auto);*/
+
+   /* grid-gap: 1px ;*/
+    margin: auto;
+
+    grid-auto-flow: column;
+    width: 300px;
+    height: 300px;
+    border: 2px solid;
+    margin-top: 140px;
+    border: 0px;
+
+    
+    /*
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-bottom: 200px;*/ 
+
+}
+
+body{
+    
+    background-color: blueviolet;
+    
+}
