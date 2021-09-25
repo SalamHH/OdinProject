@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../summer2021"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "the_odin_project"
+	}
+}
